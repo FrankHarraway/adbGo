@@ -1,4 +1,4 @@
-package adb
+package adbGo
 
 import "fmt"
 
